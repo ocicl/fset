@@ -4,6 +4,6 @@ FSet, the functional collections library for Common Lisp.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/slburson/fset.git |
-| commit  | 1fa3fb4                                  |
+| commit  | 58c84bc                                  |
 | systems | fset                                     |
 |---------+------------------------------------------|
